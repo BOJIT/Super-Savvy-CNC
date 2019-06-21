@@ -1,6 +1,6 @@
 # Super-Savvy-CNC
 Open Source CNC Control over Wifi with Telemetry
 
-Developers: James B-P, Miles Courtie
+Developers: James Bennion-Pedley
 
-Part of BOJIT Development Team
+Project Write-Up Here: https://bojit.github.io/projects/2018/12/10/Stepper_Driver/
